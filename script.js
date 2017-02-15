@@ -24,7 +24,7 @@ var femCand = function(candidate, partyColor)
       }else{
         winner = "DRAW.";
       }
-    console.log("THE WINNER IS..." + winner + "!!!");
+    console.log("THE WINNER IS..." + winner.name + "!!!");
   };
    return cand;
 }
